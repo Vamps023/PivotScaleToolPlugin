@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dll.intermediate.manifest
+*.exe.intermediate.manifest
+
+# Logs
+log/
+*.log
