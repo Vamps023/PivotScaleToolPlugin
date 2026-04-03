@@ -1,6 +1,8 @@
 /**
  * PivotScaleTool — Unigine 2.6 Plugin (DLL)
  * Version: 1.0.0
+ * Author: Swapnil Nare
+ * Year: 2026
  *
  * Features:
  *   - Scale Origin: Pivot Center / BBox Center / World Origin
